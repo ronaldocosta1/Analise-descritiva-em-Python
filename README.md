@@ -10,7 +10,7 @@ Esse foi o inicio da análise, onde foi visualizado pela primeira vez os dados b
 
 
 
-
+![](https://github.com/ronaldocosta1/Analise-descritiva-em-Python/blob/main/dataset-cover.png)
 
 
 
